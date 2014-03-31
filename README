@@ -6,6 +6,9 @@
 ### Github.com/desempregad0
 ##################################################################
 
+# REQUIREMENTS: JSBEAUTIFIER
+through pip: "pip install jsbeautifier"
+
 Software developed for catching samair.ru proxy list.
 It downloads them, unpacks the port and tests them all.
 Usage: simply execute "python samair.py" it and seek for a listafinal.txt on the directory
