@@ -118,8 +118,8 @@ def intro():
 	print '################       Samair\'s Proxy Catcher     ################'
 	print '##################################################################'
 	print '### Version 0.1b'
-	print '### Author: desempregad0'
-	print '### Github.com/desempregad0'
+	print '### Author: brenoman'
+	print '### Github.com/brenoman'
 	print '##################################################################\n\n\n'
 
 	print 'Downloading Samair\'s proxy pages...'
